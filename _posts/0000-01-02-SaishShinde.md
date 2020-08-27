@@ -1,6 +1,7 @@
----
+----
 layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+title: "Welcome to our last slide!"
+----
+Your file
+Use the right arrow to go back!
+Press Enter
